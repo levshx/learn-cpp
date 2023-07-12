@@ -1,6 +1,6 @@
 #include <iostream>
 #include <windows.h>
-#include "../lib/vendor/glad/include/glad/glad.h"
+//#include "../vendor/glad/include/glad/glad.h"
 
 
 using std::cout;
