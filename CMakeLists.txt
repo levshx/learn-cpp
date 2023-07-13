@@ -5,6 +5,7 @@ project(learn-cpp VERSION 1.0)
 find_package(OpenGL REQUIRED)
 
 include_directories(${OPENGL_INCLUDE_DIRS})
+
 add_executable(${PROJECT_NAME} 
     src/main.cpp)
 
